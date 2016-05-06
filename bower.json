@@ -1,0 +1,34 @@
+{
+  "name": "nitipdep",
+  "version": "0.0.0",
+  "authors": [
+    "cybel.company"
+  ],
+  "description": "nitipdonk.com scripts dependency",
+  "main": [
+    "css/icon.css",
+    "css/loader.css",
+    "js/idangerous.swiper.min.js",
+    "css/idangerous.swiper.css",
+    "js/isotope.pkgd.min.js",
+    "js/jquery.viewportchecker.min.js",
+    "js/global.js",
+    "css/stylesheet.csss"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "nitipdonk",
+    "dependency"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/xbricks/nitipdep",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
